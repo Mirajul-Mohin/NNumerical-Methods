@@ -1,0 +1,5 @@
+
+Solution for the system:
+a1 = 2.42548
+a2 = 3.57302
+a3 = 1.92595

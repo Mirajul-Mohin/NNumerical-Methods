@@ -1,0 +1,5 @@
+
+Solution for the system:
+x1 = 1
+x2 = 0.5
+x3 = -0.5
